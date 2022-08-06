@@ -1,0 +1,21 @@
+Roteiro - curriculo-v2
+======================
+
+() Clonar curriculo-v1
+() Acessar style.css
+
+() Estilizar h1 até h6 com texto centralizado
+() Estilizar button com cursor pointer
+() Estilizar table com margem automática
+() Estilizar th e td com padding
+
+() Estilizar tbody tr com :nth-child para alternar
+   cores de fundo
+
+() Estilizar tbody tr com :hover 
+
+() Inserir classe .title no HTML e estilizar
+   com fonte vermelha
+
+() Inserir classe .author e estilizar com
+   fonte itálica e alinhamento à direita

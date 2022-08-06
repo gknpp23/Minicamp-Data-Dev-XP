@@ -1,0 +1,77 @@
+{
+  "extensions.ignoreRecommendations": true,
+  "debug.javascript.codelens.npmScripts": "never",
+  "telemetry.telemetryLevel": "off",
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.maxColumn": 90,
+  "editor.smoothScrolling": true,
+  "editor.minimap.showSlider": "always",
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": true,
+  "workbench.editor.enablePreviewFromCodeNavigation": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.editor.labelFormat": "short",
+  "debug.console.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "'JetBrains Mono', Consolas, monospace",
+  "editor.fontLigatures": false,
+  "editor.fontSize": 19,
+  "editor.lineHeight": 24,
+  "update.mode": "manual",
+  "editor.renderWhitespace": "all",  
+  "editor.rulers": [
+    90
+  ],
+  "editor.tabSize": 2,
+  "terminal.integrated.fontSize": 18,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "breadcrumbs.enabled": false,
+  "editor.parameterHints.enabled": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "files.autoSave": "onFocusChange",
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editor.enablePreview": false,
+  "[javascript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "[javascriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "[typescript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "[typescriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "explorer.compactFolders": false,
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}VSCode (Minicamp)",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "prettier.arrowParens": "avoid",
+  "editor.minimap.enabled": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.CustomBrowser": "chrome:PrivateMode"
+}

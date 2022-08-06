@@ -1,0 +1,4 @@
+- A pasta "_apoio" contém as configurações que utilizo no VSCode
+- A pasta "gravado" contém o código-fonte que foi criado nas gravações
+- A pasta "planejado" contém o código-fonte do meu planejamento das gravações
+- A pasta "vazio" contém somente as pastas das aulas + roteiros

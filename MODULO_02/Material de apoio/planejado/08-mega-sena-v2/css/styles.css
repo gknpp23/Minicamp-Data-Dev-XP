@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+}
+
+.numbers {
+  border: 1px solid black;
+  padding: 10px;
+  list-style-type: none;
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+}
+
+.number {
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid lightgray;
+  width: 25px;
+  padding: 5px;
+  border-radius: 100%;
+  user-select: none;
+  cursor: pointer;
+}
+
+.selected-number {
+  background-color: lightgreen;
+}
+
+.buttons {
+  padding: 10px;
+  list-style-type: none;
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 100%;
+  user-select: none;
+  cursor: pointer;
+}
+
+.saved-games {
+  font-family: monospace;
+  font-size: 20px;
+}

@@ -1,0 +1,5 @@
+Roteiro - megasena-v2
+=====================
+
+(x) Clonar megasena-v1
+(x) Implementar suporte ao LocalStorage

@@ -1,0 +1,13 @@
+Roteiro - Ambiente
+==================
+
+() Falar rapidamente sobre o ambiente Windows x Linux x MacOS
+() Instalar a fonte JetBrains Mono - https://www.jetbrains.com/lp/mono/
+() Baixar VSCode no formato compactado e portável (.zip) - https://code.visualstudio.com/
+() Para verificar se o Windows é 32 ou 64 bits - https://superuser.com/a/321995
+() Instalar e configurar VSCode Portable - https://code.visualstudio.com/docs/editor/portable
+() Instalar as extensões "Prettier", "vscode-icons", "Winter is Coming Theme" e, principalmente, "Live Server"
+() Inserir conteúdo do arquivo "settings.json" no VSCode
+() Criar pasta "projetos\01-ambiente" no Desktop
+() Criar um app HTML simples (Hello, world!) na pasta "01-ambiente" e demonstrar como o trabalho é "pouco produtivo" com os diversos "refreshes" da página
+() Demonstrar melhoria de produtividade com a utilização da extensão "Live Server"

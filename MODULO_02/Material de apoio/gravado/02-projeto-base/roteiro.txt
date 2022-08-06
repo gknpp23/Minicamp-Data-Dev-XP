@@ -1,0 +1,24 @@
+Roteiro - projeto-base
+======================
+
+(x) Informar que este projeto possuirá HTML, 
+   CSS e JavaScript "conectados" e servirá
+   de base para os demais projetos do módulo
+
+(x) Criar estrutura de pastas com index.html 
+   js\script.js e 
+   css\style.css
+
+(x) Montar HTML com apoio da tecla "!"
+(x) Trocar atributo lang para "pt-BR"
+(x) Trocar título em <title> e inserir o mesmo título em <h1>
+(x) Inserir tag <script defer> e explicar o atributo "defer"
+(x) Testar JavaScript com console.log
+(x) Conectar CSS com <link rel="stylesheet" href="./css/style.css" />
+
+(x) Modificar style.css:
+    body {
+      padding: 10px;
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: lightgray;
+    }
