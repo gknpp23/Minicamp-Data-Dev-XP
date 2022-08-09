@@ -22,7 +22,7 @@ Repositório destinado aos exercícios e atividades do **Processo seletivo da Gr
 * CSS;
 * JavaScript;
 * D.O.M;
-* LocalStorgae;
+* LocalStorage;
 * Implementação com NETLIFY DROP.
 
 
