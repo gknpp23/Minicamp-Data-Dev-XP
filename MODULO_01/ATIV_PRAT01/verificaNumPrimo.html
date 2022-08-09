@@ -1,0 +1,18 @@
+<html>
+    <script>
+        function verificaNumPrimo(num){
+             
+            if (num > 1) {
+                for(var i = 1; i < num; i++){
+
+                    if(num % i === 0 && i !== 1)return console.log(`O número ${num} não é primo`);
+
+                    return  console.log(`O número ${num} é primo`);
+
+                }
+            } else {
+                return console.log("Digite apenas números inteiros positivos maiores que um.");
+            }
+        }
+    </script>
+</html>
