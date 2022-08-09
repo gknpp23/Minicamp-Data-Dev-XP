@@ -1,6 +1,7 @@
-# Faculdade XPe
+<div align="center">
+<img src="IMG/Logo-XP-Educacao-preta.png" alt="LOGO">
+</div>
 
-![LOGO Xp](IMG/Logo-XP-Educacao-preta.png)
 ***
 
 ### Minicamp Data & Dev
@@ -21,7 +22,7 @@ Repositório destinado aos exercícios e atividades do **Processo seletivo da Gr
 * CSS;
 * JavaScript;
 * D.O.M;
-* LocalStorgae;
+* LocalStorage;
 * Implementação com NETLIFY DROP.
 
 
