@@ -1,6 +1,7 @@
-# Faculdade XPe
+<div align="center">
+<img src="IMG/Logo-XP-Educacao-preta.png" alt="LOGO">
+</div>
 
-![LOGO Xp](IMG/Logo-XP-Educacao-preta.png)
 ***
 
 ### Minicamp Data & Dev
