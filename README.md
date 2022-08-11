@@ -3,7 +3,7 @@
 </div>
 
 ***
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/33918ba5-915c-4804-8efd-266182d028df/deploy-status)](https://app.netlify.com/sites/imc-calc-v2/deploys)
 ### Minicamp Data & Dev
 
 Repositório destinado aos exercícios e atividades do **Processo seletivo da Graduação Faculdade XP**.
