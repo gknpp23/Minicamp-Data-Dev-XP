@@ -24,19 +24,34 @@ function checkWeightRange(imc) {
   
   if(imc < 16) imcRange.textContent = 'Valor inválido';
   
-  else if(imc >= 16 && imc <= 16.9) imcRange.textContent = 'Muito abaixo do peso.';
+  else if(imc >= 16 && imc <= 16.9){
+    imcRange.textContent = 'Muito abaixo do peso.';
+  }
 
-  else if(imc >= 17 && imc <= 18.4) imcRange.textContenterHTML ='Abaixo do peso.';
+  else if(imc >= 17 && imc <= 18.4) {
+    imcRange.textContent = 'abaixo do peso.';
+  }
 
-  else if(imc >= 18.5 && imc <= 24.9) imcRange.textContent ='Peso normal.';
+  else if(imc >= 18.5 && imc <= 24.9){
+    imcRange.textContent = 'Peso normal.';
+  }
 
-  else if(imc >= 25 && imc <= 29.9) imcRange.textContent ='Acima do peso.';
+  else if(imc >= 25 && imc <= 29.9){
+    imcRange.textContent = 'Acima do peso.';
+  }
 
-  else if(imc >= 30 && imc <= 34.9) imcRange.textContent ='Obesidade GRAU I';
+  else if(imc >= 30 && imc <= 34.9){
+    imcRange.textContent = 'Obesidade GRAU I';
+  }
 
-  else if(imc >= 35 && imc <= 40) imcRange.textContent ='Obesidade GRAU II';
+  else if(imc >= 35 && imc <= 40){
+    imcRange.textContent = 'Obesidade GRAU II';
+  }
 
-  else if(imc > 40) imcRange.textContent='Obesidade GRAU III';
+  else if(imc > 40){
+    imcRange.textContent = 'Obesidade GRAU III';
+    sectionRange.classList.add("ob-grau3");
+  }
   
 
 }

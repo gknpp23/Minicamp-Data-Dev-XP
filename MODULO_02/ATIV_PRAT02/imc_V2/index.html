@@ -10,27 +10,36 @@
     <title>IMC V2</title>
   </head>
   <body>
-    <h1>IMC V2</h1>
-
-    <label for="input-weight">Peso (kg):</label><br />
-    <input id="input-weight" type="number" value="98" step="0.1" /><br /><br />
-
-    <label for="input-height">Altura (m): </label><br />
-    <input id="input-height" type="number" value="1.78" step="0.01" />
-
-    <p>
-      <button id="button-calculate-imc">Calcular IMC</button>
-    </p>
-
-    <p id="paragraph-result">
-      O IMC desses dados é <strong id="imc-result"></strong>
-    </p>
-
-    <p id="paragraph-weight-range">
-      Você se encontra na faixa <strong id="imc-range"></strong>
-    </p>
+    <header><h1>IMC v2</h1></header>
+    <div id="flex01">
+      <main> 
+        <label for="input-weight">Peso (kg):</label>
+        <input id="input-weight" type="number" value="98" step="0.1" /><br /><br />
+    
+        <label for="input-height">Altura (m): </label>
+        <input id="input-height" type="number" value="1.78" step="0.01" />
+    
+        <p>
+          <button id="button-calculate-imc">Calcular IMC</button>
+        </p>
+      </main>
+  
+      <section>
+        <p id="paragraph-result">
+          O IMC desses dados é <strong id="imc-result"></strong>
+        </p>
+    
+        <p id="paragraph-weight-range">
+          Você se encontra na faixa <strong id="imc-range"></strong>
+        </p>
+      </section>
+    </div>
     
 
+    <footer> 
+      <p>Development with &hearts; by Gabriel Knupp</p>
+    </footer>
+    
     <script defer src="./js/script.js"></script>
   </body>
 </html>
